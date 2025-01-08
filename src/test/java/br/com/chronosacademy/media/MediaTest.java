@@ -1,4 +1,4 @@
-package br.com.chronosacademy;
+package br.com.chronosacademy.media;
 
 import org.junit.Test;
 
